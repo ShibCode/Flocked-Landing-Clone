@@ -167,7 +167,7 @@ main {
 }
 @media screen and (max-width: 1120px) {
   main {
-    background-size: 1120px 1515px;
+    background-size: cover;
     background-position: center;
   }
 }
